@@ -2,3 +2,16 @@
     font-weight: bold;
     font-size: 1rem;
 }
+
+.social-buttons {
+    display: flex;
+    flex-direction: row;
+    margin-top: 10px;
+}
+
+.social-buttons svg {
+    margin: 0 10px 0 10px;
+    width: 30px;
+    height: 30px;
+    vertical-align: bottom;
+}
